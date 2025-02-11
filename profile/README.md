@@ -1,9 +1,5 @@
 # DeepChain
 
-<a id="user-content-pinned" href="#pinned">
-  <h3>📌 Pinned</h3>
-</a>
-
 <div align="center">
   <img src="https://raw.githubusercontent.com/DeepChain-DCHAIN/assets/09b82a9bbdbb123a9dd7ef043d5aa76503cec93a/logo.svg" alt="DeepChain Logo" width="400px">
 </div>
