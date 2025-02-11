@@ -28,12 +28,6 @@ AI-powered smart contract generator that creates optimized Solana smart contract
 ### [DeepChat™](https://github.com/DeepChain-DCHAIN/DeepChat)
 AI blockchain development assistant that helps with smart contract development, debugging, and blockchain concepts explanation.
 
-## 🔗 Links
-
-- [Website](https://deepchain.cloud/)
-- [Documentation](https://docs.deepchain.cloud/)
-- [Twitter](https://x.com/deepchaincloud)
-
 ## Key Features
 
 ### DeepScan™ - AI-Powered Smart Contract Auditing
@@ -282,3 +276,10 @@ We welcome contributions! Please read our contributing guidelines before submitt
 ## 📄 License
 
 This project is licensed under the MIT License - see the LICENSE file for details. 
+
+
+## 🔗 Links
+
+- [Website](https://deepchain.cloud/)
+- [Documentation](https://docs.deepchain.cloud/)
+- [Twitter](https://x.com/deepchaincloud)
