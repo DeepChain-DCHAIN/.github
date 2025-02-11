@@ -19,13 +19,13 @@ DeepChain is an AI-powered blockchain automation layer designed to enhance smart
 
 ## 🚀 Core Products
 
-### [DeepScan™](https://github.com/DeepChain-DCHAIN/DeepScan)
+### [DeepScan™](https://github.com/DeepChain-DCHAIN/DeepChain/tree/main/Deepscan)
 AI-powered smart contract security scanner that analyzes Solana tokens and smart contracts for security risks and provides detailed insights.
 
-### [DeepCode™](https://github.com/DeepChain-DCHAIN/DeepCode)
+### [DeepCode™](https://github.com/DeepChain-DCHAIN/DeepChain/tree/main/Deepcode)
 AI-powered smart contract generator that creates optimized Solana smart contracts with built-in security features.
 
-### [DeepChat™](https://github.com/DeepChain-DCHAIN/DeepChat)
+### [DeepChat™](https://github.com/DeepChain-DCHAIN/DeepChain/tree/main/Deepchat)
 AI blockchain development assistant that helps with smart contract development, debugging, and blockchain concepts explanation.
 
 ## Key Features
